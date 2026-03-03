@@ -33,3 +33,4 @@ data/*.json
 # OS Generated
 .DS_Store
 Thumbs.db
+doc/video_demo/*.mp4
