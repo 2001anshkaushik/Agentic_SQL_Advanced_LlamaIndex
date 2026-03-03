@@ -12,7 +12,7 @@ Instead of explicitly coding the routing logic (as done in LangGraph), the ReAct
 - **Synthesis**: It holds the output of the tools in memory and formulates a final analytical response, allowing for highly complex, multi-turn conversational workflows without rigid coding.
 
 ### Comparative Approach: LlamaIndex vs. LangGraph
-*(See my complementary repository: **[Agentic SQL Core: Structural Query Engine](../Agentic_SQL_Core_LangGraph/)**)*
+*(See my complementary repository: **[Agentic SQL Core: Structural Query Engine](https://github.com/2001anshkaushik/Agentic_SQL_Core_LangGraph)**)*
 
 While my LangGraph implementation provides absolute deterministic control—vital for strict structural operations—it requires heavy boilerplate to define every possible routing edge. **LlamaIndex**, by contrast, provides incredible development velocity and flexibility. 
 
